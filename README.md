@@ -19,3 +19,5 @@ Procedure:
   Now, Run the code.
 
 
+![s1](https://github.com/user-attachments/assets/395d6d3d-c7de-4d7b-9a95-99214f7f4ed1)
+![Capture](https://github.com/user-attachments/assets/fdb5d451-63da-400d-b613-21fc3e2f0b46)
